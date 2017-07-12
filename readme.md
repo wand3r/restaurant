@@ -1,1 +1,1 @@
-Old unfinished project
+Old unfinished project. Rewrite from calmm-js to redux.
